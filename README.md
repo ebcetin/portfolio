@@ -12,7 +12,7 @@ What is free energy, and how can we measure it?
 - reaction coordinate
 - windows of rcs
 - equilibrium dynamics
-     reactants, products, sub-ns wells
+     reactants, products, sub-ns wells,
      pre-catalytic stage
 - non-equilibrium dynamics
      pre-catalytic stage

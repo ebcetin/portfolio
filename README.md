@@ -15,7 +15,7 @@ What is free energy, and how can we measure it?
      reactants, products, sub-ns wells,
      pre-catalytic stage
 - non-equilibrium dynamics
-     pre-catalytic stage
+     pre-catalytic stage,
      catalytic stage
 -Zwanzig -- Non-eqiulibrium dynamics -- Hot gas dynamics -- Free Energy Perturbation Method
 -alchemlyb

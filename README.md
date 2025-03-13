@@ -20,7 +20,7 @@ What is free energy, and how can we measure it?
 -Zwanzig -- Non-eqiulibrium dynamics -- Hot gas dynamics -- Free Energy Perturbation Method
 -alchemlyb
 
-What is the maximum amount of work we can extract from DHFR -- DHF -- Trimethorprim system?
+What is the maximum amount of work we can extract from DHFR -- DHF -- Trimethoprim system?
 3. Free Energy -- High Throughput
 
 How can we apply everything we learned in a high-throughput system?

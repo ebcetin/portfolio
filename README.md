@@ -17,7 +17,7 @@ What is free energy, and how can we measure it?
 - non-equilibrium dynamics
      pre-catalytic stage,
      catalytic stage
--Zwanzig -- Non-eqiulibrium dynamics -- Hot gas dynamics -- Free Energy Perturbation Method
+-Zwanzig -- Non-equilibrium dynamics -- Hot gas dynamics -- Free Energy Perturbation Method
 -alchemlyb
 
 What is the maximum amount of work we can extract from DHFR -- DHF -- Trimethoprim system?
